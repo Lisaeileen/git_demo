@@ -1,0 +1,17 @@
+This is your details for lisa_prac App
+name= "Lisa Eileen"
+username=odinukwelisa05@gmail.com
+password=admin234
+dob=1900/01/01
+echo This is Lisa Prac App login details
+echo You need to fill out the form below
+echo Enter your first name
+read name
+echo Enter your username
+read username
+echo Enter your password
+read password
+echo Enter your date of birth
+read dob
+echo Hello your details are $name $username $password $dob
+
